@@ -1,7 +1,7 @@
 name: alpha_vantage_client
 description: A starting point for Dart libraries or applications.
 version: 0.0.1
-#homepage: https://www.example.com
+homepage: https://github.com/jimsimon/alpha_vantage_client_dart
 author: Jim Simon <jim.j.simon@gmail.com>
 
 environment:
